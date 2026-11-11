@@ -1,0 +1,13 @@
+:root {
+  --color-accent: #2563eb;
+  --color-danger: #dc2626;
+  --color-ink: #111111;
+  --color-paper: #ffffff;
+  --color-primary: #d4a017;
+  --color-success: #16a34a;
+  --radius-md: 8px;
+  --radius-sm: 4px;
+  --spacing-lg: 16px;
+  --spacing-md: 8px;
+  --spacing-sm: 4px;
+}
